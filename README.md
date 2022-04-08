@@ -71,6 +71,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Phpstorm-informational?style=flat&logo=phpstorm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
