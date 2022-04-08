@@ -1,7 +1,5 @@
 ### Hi everyone, I'm Armel，! 👋
 
-#### Software development is my profession.
-
 
 ### I'm a Full-Stack Web  Developer
 - 🔭 I’m currently working on software development
