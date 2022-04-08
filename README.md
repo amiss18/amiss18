@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi everyone, I'm Armel，! 👋
 
+#### Software development is my profession.
+
+
+# I'm a Full-Stack Web  Developer
+- 🔭 I’m currently working on software development
+- 🌱 I’m currently learning web development ( NodeJS  and TypeScript).
+- 💬 Ask me about PHP, Symfony (2 to 6 ), JS, VueJs.
 <!--
 **amiss18/amiss18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +25,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=amss18.amiss18)
 
 
-## 🧰 Languages and Tools:
+### 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -50,7 +57,7 @@ Here are some ideas to get you started:
   
 </p>
 
-## :trophy: My Github Stats:
+### :trophy: My Github Stats:
 
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=amiss18&count_private=true&show_icons=true&theme=tokyonight)
