@@ -1,4 +1,4 @@
-## Hi everyone, I'm Armel，! 👋
+## Hi everyone, I'm Armel! 👋
 
 
 ## I'm a Full-Stack Web  Developer
